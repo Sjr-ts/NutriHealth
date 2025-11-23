@@ -1,5 +1,7 @@
+## Atividade de Mobile
+
 Atividade de Mobile feita por:
 
-William Yuri
-Mheus Gomes
-Sérgio Rodrigues
+- William Yuri  
+- Matheus Gomes  
+- Sérgio Rodrigues
