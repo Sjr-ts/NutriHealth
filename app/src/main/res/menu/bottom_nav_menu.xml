@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="Início" />
+    <item
+    android:id="@+id/navigation_report"
+    android:icon="@android:drawable/ic_menu_sort_by_size"
+    android:title="Relatório" />
+    <item
+    android:id="@+id/navigation_specialists"
+    android:icon="@android:drawable/ic_menu_my_calendar"
+    android:title="Especialistas" />
+    <item
+    android:id="@+id/navigation_profile"
+    android:icon="@android:drawable/ic_menu_myplaces"
+    android:title="Perfil" />
+</menu>

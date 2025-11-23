@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">NutriH</string>
+
+    <string name="title_home">Início</string>
+    <string name="title_report">Relatório</string>
+    <string name="title_specialists">Especialistas</string>
+    <string name="title_profile">Perfil</string>
+
+    <string name="home_greeting">Olá, %s 👋</string>
+    <string name="home_title">O que vamos comer hoje?</string>
+    <string name="home_search_hint">Pesquisar receitas...</string>
+    <string name="home_popular_title">Receitas feitas</string>
+    <string name="home_categories_title">Categorias &amp; Recomendações</string>
+    <string name="weekly_plan_title">Plano Semanal</string>
+    <string name="weekly_plan_subtitle">Toque para adicionar refeição</string>
+
+    <string name="menu_edit">Editar</string>
+    <string name="menu_delete">Excluir</string>
+
+    <string name="dialog_add_recipe_title">Adicionar Refeição</string>
+    <string name="dialog_title_add">Adicionar Refeição</string>
+    <string name="dialog_title_edit">Editar Refeição</string>
+    <string name="dialog_save">Salvar</string>
+    <string name="dialog_cancel">Cancelar</string>
+
+    <string name="hint_food_name">Nome do Alimento</string>
+    <string name="hint_quantity">Quantidade (ex: 100g)</string>
+    <string name="hint_calories">Calorias (Kcal)</string>
+    <string name="hint_protein">Proteínas (g)</string>
+    <string name="hint_carbs">Carboidratos (g)</string>
+    <string name="hint_fats">Gorduras (g)</string>
+
+    <string name="label_food_name">Nome do Alimento</string>
+    <string name="label_quantity">Quantidade</string>
+    <string name="label_calories">Calorias</string>
+    <string name="label_protein">Proteínas</string>
+    <string name="label_carbs">Carboidratos</string>
+    <string name="label_fats">Gorduras</string>
+    <string name="button_save">Salvar</string>
+
+    <string name="suggestion_title">Sugestão Saudável 💡</string>
+    <string name="suggestion_message">Você adicionou "%1$s".\n\nQue tal trocar por "%2$s"?\n\nMotivo: %3$s.</string>
+    <string name="suggestion_ok">Entendi</string>
+
+    <string name="report_title">Relatório Semanal</string>
+    <string name="report_subtitle">Acompanhe seu progresso semanal</string>
+    <string name="report_no_data">Nenhum dado registrado nesta semana.</string>
+    <string name="report_unit_grams">%d g</string>
+    <string name="goal_create_title">CRIE SUA META</string>
+    <string name="goal_view_title">SUA META SEMANAL</string>
+    <string name="report_realized_title">REALIZADO (Últimos 7 dias)</string>
+    <string name="dialog_goal_title">Definir Meta Semanal</string>
+    <string name="hint_goal_calories">Meta de Calorias</string>
+    <string name="hint_goal_protein">Meta de Proteínas (g)</string>
+    <string name="hint_goal_carbs">Meta de Carboidratos (g)</string>
+    <string name="hint_goal_fats">Meta de Gorduras (g)</string>
+    <string name="btn_save_goal">Salvar Meta</string>
+
+    <string name="specialists_title">Especialistas</string>
+    <string name="specialists_subtitle">Agende sua consulta com nossos parceiros</string>
+    <string name="specialists_my_appointments">Meus Agendamentos</string>
+    <string name="specialists_no_appointments">Você não tem agendamentos ativos.</string>
+
+    <string name="specialist_schedule_button">Agendar</string>
+    <string name="specialist_cancel_button">Cancelar</string>
+    <string name="my_appointments_title">Meus Agendamentos</string>
+    <string name="no_appointments">Você não tem agendamentos ativos.</string>
+
+    <string name="dialog_schedule_title">Agendar Consulta</string>
+    <string name="dialog_schedule_subtitle">com %s</string>
+    <string name="dialog_schedule_select_date">Selecione a Data</string>
+    <string name="dialog_schedule_select_time">Selecione o Horário</string>
+    <string name="dialog_schedule_button_confirm">Confirmar Agendamento</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="error_sunday">Não realizamos consultas aos domingos.</string>
+    <string name="error_holiday">Não atendemos em feriados.</string>
+    <string name="alert_schedule_success_title">Agendamento Solicitado!</string>
+    <string name="alert_schedule_success_msg">Sua solicitação foi enviada.\n\nO %1$s entrará em contato pelo seu WhatsApp em até 1 semana para confirmar.</string>
+    <string name="button_ok">Entendi</string>
+
+    <string name="chat_title_prefix">Chat com</string>
+    <string name="chat_hint">Digite sua mensagem...</string> <string name="hint_type_message">Digite sua mensagem...</string>
+
+    <string name="profile_title">Meu Perfil</string>
+    <string name="profile_change_photo">Toque para alterar</string>
+    <string name="hint_name">Nome</string>
+    <string name="hint_age">Idade</string>
+    <string name="hint_weight">Peso (kg)</string>
+    <string name="hint_phone">Telefone</string>
+    <string name="hint_objective">Objetivo</string>
+    <string name="hint_target_date">Data da Meta</string>
+    <string name="btn_save_profile">Salvar Alterações</string>
+
+    <string name="login_title">Bem-vindo ao NutriH</string>
+    <string name="login_subtitle">Faça login para continuar</string>
+    <string name="login_button">Entrar</string>
+    <string name="login_terms">Ao entrar, você concorda com nossos termos.</string>
+</resources>

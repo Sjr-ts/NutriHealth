@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "785690972780",
+    "project_id": "nutrihealth-75c0c",
+    "storage_bucket": "nutrihealth-75c0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785690972780:android:b30a965b90c4fd2aa9fe49",
+        "android_client_info": {
+          "package_name": "com.example.nutrih"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKcqRc5PFZRNkEdH0g6nw7j5EcvwtXL0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
